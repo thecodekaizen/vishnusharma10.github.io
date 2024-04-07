@@ -1,5 +1,5 @@
 ---
-title: Exploring Elixir: A Technical Overview
+title: Exploring Elixir - A Technical Overview
 date: 2024-04-07
 permalink: /blog/2024/04/07/elixir-technical-overview/
 ---
