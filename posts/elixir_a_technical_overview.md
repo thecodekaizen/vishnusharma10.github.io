@@ -1,4 +1,8 @@
-# Exploring Elixir: A Technical Overview
+---
+title: Exploring Elixir: A Technical Overview
+date: 2024-04-07
+permalink: /blog/2024/04/07/elixir-technical-overview/
+---
 
 Elixir is a functional programming language built on top of the Erlang Virtual Machine (VM). It was designed to be highly concurrent, fault-tolerant, and scalable, making it a popular choice for building distributed systems and applications. In this article, we’ll explore some technical aspects of the language and how beginners can learn them.
 
