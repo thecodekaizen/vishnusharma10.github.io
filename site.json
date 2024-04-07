@@ -10,6 +10,9 @@
       "medium": "i_wish_n_u",
       "twitter": "i_wish_n_u"
     },
+    "newsletter": {
+        "showTwitterBanner": true
+    },
     "seo": {
       "title": "Vishnu Sharma",
       "description": "Blog of a Software Engineer",
