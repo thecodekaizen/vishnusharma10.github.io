@@ -1,9 +1,0 @@
-I am Vishnu Sharma, a Software Engineer with a rich background in developing impactful solutions for tech startups. My expertise lies in enhancing database efficiency, implementing real-time features, and optimizing operational workflows. I am proficient in Python, Java, JavaScript, Flutter, and React, backed by a strong educational foundation in Computer Science from NIIT University.
-
-Since July 2022, I have been working as a Software Engineer at IDfy in Mumbai, Maharashtra, where I've played a key role in the company's success. Notable achievements include designing a cutting-edge Archival Service that boosted system efficiency by 60%, developing a real-time chat feature that increased user engagement by 15%, and conceptualizing key features that drove a 12% revenue increase and acquired clients like PhonePe and Godrej.
-
-During my internship at IDfy, I led complex instrumentation strategies, implemented auto-restart functionality for critical processes, and significantly improved system efficiency leading to notable performance improvements.
-
-My technical skills extend to various tools and frameworks such as Flutter, React, Node.js, Kubernetes, and Google Cloud Platform. I am passionate about innovation, as demonstrated by winning hackathons like the Smart India Hackathon and actively contributing to open-source projects on GitHub, where I have garnered recognition for my work and educational materials.
-
-I am open to remote opportunities and can be reached at me.vishnusharma10@gmail.com. Connect with me on LinkedIn at linkedin.com/in/i-wish-n-u or explore my GitHub profile at github.com/vish198910 to learn more about my projects and contributions to the tech community.
