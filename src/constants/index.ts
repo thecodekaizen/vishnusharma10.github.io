@@ -89,9 +89,9 @@ export const SOCIALS = [
   },
 ] as const;
 
-export const FRONTEND_SKILL = [
+// export const FRONTEND_SKILL = [
  
-] as const;
+// ] as const;
 
 export const BACKEND_SKILL = [
   {
@@ -239,5 +239,4 @@ export const NAV_LINKS = [
     link: "#projects",
   },
 ] as const;
-
 
